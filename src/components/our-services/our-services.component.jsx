@@ -1,5 +1,5 @@
 import { BoltIcon, ChatBubbleBottomCenterTextIcon, GlobeAltIcon, ScaleIcon } from '@heroicons/react/24/outline'
-import PropertySales from '../our-services/property-acquisition.ico'
+// import PropertySales from '../our-services/property-acquisition.ico'
 
 const features = [
   {
